@@ -16,5 +16,24 @@ h1{
 .nav{
   color: white;
   font-size: 18px;
-  
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.ourprocess p{
+  font-size: 14px;
+}
+
+.top h2{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
